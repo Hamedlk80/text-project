@@ -1,2 +1,2 @@
 # text-project
-text group members : A
+text group members : Aylin,Hamed,Shayan,Darya,Taha
